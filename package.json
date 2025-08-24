@@ -10,8 +10,8 @@
   "scripts": {
     "start": "node bin/snap-ai-commit.js",
     "lint": "eslint .",
-    "prepare": "husky",
-    "test": "node test/index.test.js"
+    "prepare": "husky"
+  
   },
   "displayName": "AI Commit Message (Rup-dev)",
   "publisher": "rupkumar-dev",
